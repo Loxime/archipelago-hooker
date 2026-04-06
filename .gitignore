@@ -1,2 +1,5 @@
 forks_db.json
 .env
+venv/
+__pycache__/
+*.json
